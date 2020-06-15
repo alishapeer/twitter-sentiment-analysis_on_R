@@ -1,5 +1,5 @@
 # twitter-sentiment-analysis_on_R
-Understanding Public's Sentiment on the Leaders of various countries amidst the Coronavirus Pandemic. 
+Understanding the public's sentiment on the leaders of various countries amidst the Coronavirus Pandemic. 
 
 Developed an R script to analyze and visualize live tweets using Twitter's API, ggplot2, tidytext, and tm (text mining). 
 
