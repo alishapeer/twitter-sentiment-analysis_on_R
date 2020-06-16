@@ -1,4 +1,4 @@
-# CS688 - Web Analytics Term Project
+# Twitter Sentiment Analysis on R
 # Alisha Peermohamed | Spring 2020
 
 # Twitter Sentiment Analysis
